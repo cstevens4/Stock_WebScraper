@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Web Scraper Final Project
 
 ## Description:
@@ -20,16 +19,5 @@ Our project is a Stock Web Scraper. We will use the website https://markets.busi
 
 
 ## Team Members:
-Connor Stevens, Server Info 
-Yen Le, Client Connection/GUI 
-=======
-# Final_Project
-Final Project for Network Programming 
-connor
- Update 1
- Update from Connnor
-
- 
-Update from yenle
-master
->>>>>>> 39c62bb005273f0ae4a45e9eee5a7bc50e35228b
+- Connor Stevens, Server Info 
+- Yen Le, Client Connection/GUI 
