@@ -1,23 +1,29 @@
 # Web Scraper Final Project
 
 ## Description:
-Our project is a Stock Web Scraper. We will use the website https://markets.businessinsider.com/ and only info based on Dow-Jones 
+Our project is a Stock Web Scraper. We will use the website https://markets.businessinsider.com/ for all of of the company's stock info.  
 
+## Getting Started
 
-## Deliverables:
-- We will take read in information in from a website with stocks using Python. 
-- We will sort that info out by company name, and stock info
-- Set up TCP connection between server and client
-- Server will ask for inputs from client
-- Server will output info based on given inputs
+### Install:
+Download code from GIT repo into your IDE
+
+### Run:
+1. Make sure server is up and running before running client file
+2. Run client file (GUI will pop up) 
+3. Fill out necessary information (you can click the default button under the connection part to automatically fill in spaces).
 
 
 ## Features: 
-1. User can ask to see specific company
-2. User can ask to see specific company numbers
-3. User can ask to see biggest "winner" at the time
+1. User can ask to see specific company, using company stock name.
+2. User can ask to see specific company numbers (all numbers will show up on GUI)
+3. User can connect to "localhost" instntly with "Default button"
+
+
+## Demo video:
+Our demo video can be found on YouTube here: 
 
 
 ## Team Members:
-- Connor Stevens, Server Info 
-- Yen Le, Client Connection/GUI 
+- Connor Stevens, Bug Fixes/GUI Fixes 
+- Yen Le, Team Leader/Server 
