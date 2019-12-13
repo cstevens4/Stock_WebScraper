@@ -21,7 +21,8 @@ Download code from GIT repo into your IDE
 
 
 ## Demo video:
-Our demo video can be found on YouTube here: 
+- Our demo video can be found on YouTube here: https://www.youtube.com/watch?v=SsCWrvdYK_w&feature=youtu.be
+- Make sure to turn on closed captions so you can see details of what's going on onscreen!
 
 
 ## Team Members:
