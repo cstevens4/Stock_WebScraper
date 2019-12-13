@@ -24,6 +24,10 @@ Download code from GIT repo into your IDE
 - Our demo video can be found on YouTube here: https://www.youtube.com/watch?v=SsCWrvdYK_w&feature=youtu.be
 - Make sure to turn on closed captions so you can see details of what's going on onscreen!
 
+## References:
+- https://www.w3schools.com/python/
+- https://www.geeksforgeeks.org/python-tools-world-web-scraping/
+- In-class Lab 4 solution
 
 ## Team Members:
 - Connor Stevens, Bug Fixes/GUI Fixes 
